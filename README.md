@@ -8,4 +8,4 @@
 
 # Teoria das Categorias
 
-[Link para lista 1](https://igrvlhlb.github.io/TeoCat/IgorVilhalba-Lista1.pdf)
+[Link para lista 1](https://igrvlhlb.github.io/IgorVilhalba-Lista1.pdf)
